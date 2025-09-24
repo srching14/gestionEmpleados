@@ -1,0 +1,15 @@
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/gestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/gestionEmpleados.AssemblyInfoInputs.cache
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/gestionEmpleados.AssemblyInfo.cs
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/gestionEmpleados.csproj.CoreCompileInputs.cache
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/gestionEmpleados.sourcelink.json
+/home/Coder/Escritorio/gestionEmpleados/bin/Debug/net8.0/gestionEmpleados
+/home/Coder/Escritorio/gestionEmpleados/bin/Debug/net8.0/gestionEmpleados.deps.json
+/home/Coder/Escritorio/gestionEmpleados/bin/Debug/net8.0/gestionEmpleados.runtimeconfig.json
+/home/Coder/Escritorio/gestionEmpleados/bin/Debug/net8.0/gestionEmpleados.dll
+/home/Coder/Escritorio/gestionEmpleados/bin/Debug/net8.0/gestionEmpleados.pdb
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/gestionEmpleados.dll
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/refint/gestionEmpleados.dll
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/gestionEmpleados.pdb
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/gestionEmpleados.genruntimeconfig.cache
+/home/Coder/Escritorio/gestionEmpleados/obj/Debug/net8.0/ref/gestionEmpleados.dll
